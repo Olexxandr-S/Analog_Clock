@@ -149,68 +149,68 @@ a {
 .clock__ten,
 .clock__eleven {
   position: absolute;
-  width: 1rem;
+  width: 3.3rem;
   height: 1px;
 }
 
 .clock__one {
-  top: 2.3rem;
-  left: 68%;
+  top: 2.9rem;
+  left: 66%;
 }
 
 .clock__two {
-  top: 5.5rem;
-  left: 84%;
+  top: 5.7rem;
+  left: 76%;
 }
 
 .clock__four {
-  top: 12.8em;
-  left: 84%;
+  top: 12em;
+  left: 80%;
 }
 
 .clock__five {
-  top: 15.4rem;
-  left: 68%;
+  top: 14.8rem;
+  left: 66%;
 }
 
 .clock__seven {
-  top: 15.4rem;
-  left: 29%;
+  top: 14.8rem;
+  left: 22%;
 }
 
 .clock__eight {
-  top: 12.8rem;
-  left: 14%;
+  top: 12rem;
+  left: 11%;
 }
 
 .clock__ten {
-  top: 5.5rem;
-  left: 13%;
+  top: 5.7rem;
+  left: 8%;
 }
 
 .clock__eleven {
-  top: 2.3rem;
-  left: 26%;
+  top: 2.9rem;
+  left: 19%;
 }
 
 .clock__twelve {
-  top: 1.1rem;
-  left: 46%;
+  top: 1rem;
+  left: 42%;
 }
 
 .clock__three {
-  top: 50%;
-  right: 0.75rem;
+  top: 46%;
+  right: 1.5rem;
 }
 
 .clock__six {
-  bottom: 2.25rem;
-  left: 48%;
+  bottom: 2.3rem;
+  left: 43%;
 }
 
 .clock__nine {
   left: 1rem;
-  top: 50%;
+  top: 46%;
 }
 
 .clock__rounder {
