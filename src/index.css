@@ -7,9 +7,9 @@
   --hue-color: 240;
 
   --first-color: hsl(39, 99%, 60%);
-  --title-color: hsl(var(--hue-color), 53%, 15%);
-  --text-color: hsl(var(--hue-color), 12%, 35%);
-  --text-color-light: hsl(var(--hue-color), 12%, 65%);
+  --title-color: hsl(var(--hue-color), 10%, 16%);
+  --text-color: hsl(var(--hue-color), 10%, 20%);
+  --text-color-light: hsl(var(--hue-color), 12%, 45%);
   --white-color: #fff;
   --body-color: hsl(var(--hue-color), 24%, 94%);
 
@@ -154,63 +154,111 @@ a {
 }
 
 .clock__one {
-  top: 2.3rem;
-  left: 68%;
+  top: -1.4rem;
+  left: 60%;
 }
 
 .clock__two {
-  top: 5.5rem;
-  left: 84%;
+  top: 1.2rem;
+  left: 76%;
 }
 
 .clock__four {
-  top: 12.8em;
-  left: 84%;
+  top: 7.2em;
+  left: 73%;
 }
 
 .clock__five {
-  top: 15.4rem;
-  left: 68%;
+  top: 8.4rem;
+  left: 55%;
 }
 
 .clock__seven {
-  top: 15.4rem;
-  left: 29%;
+  top: 10.4rem;
+  left: 20%;
 }
 
 .clock__eight {
-  top: 12.8rem;
-  left: 14%;
+  top: 7.2rem;
+  left: 6%;
 }
 
 .clock__ten {
-  top: 5.5rem;
-  left: 13%;
+  top: 2.1rem;
+  left: 9%;
 }
 
 .clock__eleven {
-  top: 2.3rem;
-  left: 26%;
+  top: -2.2rem;
+  left: 15%;
 }
 
 .clock__twelve {
-  top: 1.1rem;
-  left: 46%;
+  top: 0.5rem;
+  left: 44%;
 }
 
 .clock__three {
-  top: 50%;
-  right: 0.75rem;
+  top: 20%;
+  right: 3.4rem;
 }
 
 .clock__six {
-  bottom: 2.25rem;
-  left: 48%;
+  bottom: 5.2rem;
+  left: 45.5%;
 }
 
 .clock__nine {
-  left: 1rem;
-  top: 50%;
+  left: 0.3rem;
+  top: 21.5%;
+}
+
+.clock__twelve img {
+  width: 2.2rem;
+}
+
+.clock__one img {
+  width: 4.5rem;
+}
+
+.clock__two img {
+  width: 4.5rem;
+}
+
+.clock__three img {
+  width: 4.8rem;
+}
+
+.clock__four img {
+  width: 4.8rem;
+}
+
+.clock__five img {
+  width: 6.5rem;
+}
+
+.clock__six img {
+  width: 3.5rem;
+}
+
+.clock__seven img {
+  width: 4.5rem;
+}
+
+.clock__eight img {
+  width: 4.5rem;
+}
+
+.clock__nine img {
+  width: 4.8rem;
+}
+
+.clock__ten img {
+  width: 3.5rem;
+}
+
+.clock__eleven img {
+  width: 5.1rem;
 }
 
 .clock__rounder {
